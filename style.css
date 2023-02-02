@@ -14,4 +14,12 @@ background-size: cover;
 background-color: rgb(16, 48, 48);
 /* 设置文字颜色 */
 color: rgb(225, 256, 225);
+
+
+
 }
+a[href]{text-decoration:none}
+a:link {color:#00FF00}
+a:visited {color:#00ff007c}
+a:hover {color:#005c005d}
+a:active {color:#0000002f}
