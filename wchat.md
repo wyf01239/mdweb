@@ -6,19 +6,19 @@
 <h3>
 by wyf9. 
 
-������: 2023.2.2 / wyf9
+最后更新: 2023.2.2 / wyf9
 
 ***
 
 # Portals
 <h2>
 
-[# Ⱥ����](#Ⱥ����)
+[# 群公告](#群公告)
 
-[# ��Դ�б�](#��Դ�б�)
+[# 资源列表](#资源列表)
 ***
 
-# Ⱥ����
+# 群公告
 <h5>
 
 [[Back]](#wyf9s-coding-chat)
@@ -30,14 +30,14 @@ None
 
 ***
 
-# ��Դ�б�
+# 资源列表
 <h5>
 
 [[Back]](#wyf9s-coding-chat)
 ***
 <h3>
 
-### Windows ����
+### Windows 命令
 <h5>
 
 <https://learn.microsoft.com/zh-cn/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa>
@@ -54,4 +54,4 @@ None
 
 <h5>
 
-��Ҫ������Դ���ұ�Ⱥ����
+需要其他资源请找本群管理
