@@ -1,6 +1,5 @@
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Main/Wyf9's coding chat</title>
 </head>
 
 # Wyf9's Coding Chat
