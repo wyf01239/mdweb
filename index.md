@@ -5,4 +5,4 @@
 # Test
 This is a test page.
 
-repo: [wyf01239 / mdweb](https://github.com/wyf01239/wyfadmin)
+repo: [wyf01239 / mdweb](https://github.com/wyf01239/mdweb)
