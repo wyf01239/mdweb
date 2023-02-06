@@ -12,13 +12,13 @@
 
 <h2>
 
-[# 群公告](#群公告)
+[1. 群公告](#群公告)
 
 </h2>
 
 <h2>
 
-[# 资源列表](#资源列表)
+[2. 资源列表](#资源列表)
 
 </h2>
 
@@ -26,7 +26,7 @@
 
 <h5>
 
-[[Back]](#wyf9s-coding-chat)
+[Back](#wyf9s-coding-chat)
 
 </h5>
 
@@ -36,7 +36,7 @@
 
 <h5>
 
-[[Back]](#wyf9s-coding-chat)
+[Back](#wyf9s-coding-chat)
 
 </h5>
 
