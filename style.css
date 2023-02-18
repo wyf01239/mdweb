@@ -5,13 +5,22 @@
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: rgb(16, 48, 48);
+	color: rgb(255, 256, 255);
 	
 }
-body {
-	color: rgb(255, 256, 255);
+
+a[href]{
+	text-decoration:none
 }
-a[href]{text-decoration:none}
-a:link {color: (#00FF00)}
-a:visited {color: (#00ff007c)}
-a:hover {color: (#005c005d)}
-a:active {color: (#0000002f)}
+a:link {
+	color: #00FF00
+}
+a:visited {
+	color: #00ff007c
+}
+a:hover {
+	color: #005c005d
+}
+a:active {
+	color: #0000002f
+}
