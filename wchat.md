@@ -6,7 +6,7 @@
 
 by wyf9.
 
-最后更新: 2023.2.2 / wyf9
+最后更新: 2023.2.20 / wyf9
 
 # Portals
 
@@ -18,7 +18,21 @@ by wyf9.
 
 [Back](#wyf9s-coding-chat)
 
-None
+## VSCode Live Share 文件乱码
+
+手动更改打开编码即可.
+
+Ctrl+Shift+P -> 更改文件编码 -> 通过编码重新打开 -> 选择编码
+
+目前一些仓库的常用编码:
+
+[Wyfadmin](https://github.com/wyf01239/wyfadmin): GBK
+
+[wyf01239.github.io](https://github.com/wyf01239/wyf01239.github.io): UTF-8
+
+-/webget/: GBK
+
+[mdweb](https://github.com/wyf01239/mdweb): UTF-8
 
 # 资源列表
 
